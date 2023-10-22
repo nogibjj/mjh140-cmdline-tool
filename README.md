@@ -1,5 +1,3 @@
-# PythonTemplateRepo
+# Rust Command Line Tool
 
-IDS-706 Mini Project 1: Create a template repository for python projects
-
-This repository contains .devcontainer, .gitigmore, Makefile, Github Actions, requirements.txt, python test code, and README.md.
+[![Format](https://github.com/nogibjj/mjh140-cmdline-tool/actions/workflows/format.yml/badge.svg)](https://github.com/nogibjj/mjh140-cmdline-tool/actions/workflows/format.yml)  

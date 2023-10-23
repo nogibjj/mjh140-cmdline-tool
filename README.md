@@ -4,7 +4,7 @@
 
 ## Summary
 
-The project is an introduction to Rust packaging and Rust command line tools. The objective of this tool is to randomly generate a list of fruits to be put into a fruit salad. The user inputs a number of fruits and the list of fruits is printed in the command line. The user is prompted to evaluate the list determine if they like the fruit salad. If they do, a user input "yes" will exit the script. If they do not like the salad, a user input "no" will generate a new random fruit salad. The script is looped until the user is satisfied.
+The project is an introduction to Rust packaging and Rust command line tools. The objective of this tool is to randomly generate a list of fruits to be put into a fruit salad. The user inputs a number of fruits and the list of fruits is printed in the command line. The user is prompted to evaluate the list and determine if they like the fruit salad. If they do, a user input "yes" will exit the script. If they do not like the salad, a user input "no" will generate a new random fruit salad. The script is looped until the user is satisfied.
 
 To learn more about the random fruit generator visit this repository: [cli-salad](https://github.com/nogibjj/rust-data-engineering/blob/main/cli-salad/src/lib.rs)
 
